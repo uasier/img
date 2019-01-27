@@ -26,3 +26,9 @@
 
 :speech_balloon:：欢迎关注我的v2ex账号uasier哦。
 
+## 结果：
+
+​	录制的使用情况:link:：https://github.com/uasier/imgBed/blob/master/asset/picgo.wmv
+
+​	:tomato:【一个坑】【为结果不能在线预览感到抱歉】
+
