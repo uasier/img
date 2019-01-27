@@ -28,7 +28,7 @@
 
 ## 结果：
 
-​	录制的使用情况:link:：https://github.com/uasier/imgBed/blob/master/asset/picgo.wmv
+​	录制的使用情况​：
 
-​	:tomato:【一个坑】【为结果不能在线预览感到抱歉】
+![](https://raw.githubusercontent.com/uasier/imgBed/img/img/20190127204729.gif)
 
